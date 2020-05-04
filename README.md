@@ -1,2 +1,2 @@
 # Proyecto-HCI
-Organizador de apuntes
+Organizador de notas.
